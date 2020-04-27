@@ -9,5 +9,6 @@ pageextension 50100 CustomerListExt extends "Customer List"
         Message('App published: Hello world');
         Message('test again');
         Message('test 2');
+        Message('test3');
     end;
 }
