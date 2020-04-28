@@ -10,6 +10,6 @@ pageextension 50100 CustomerListExt extends "Customer List"
         Message('test again');
         Message('test 2');
         Message('test3');
-
+        Message('');
     end;
 }
